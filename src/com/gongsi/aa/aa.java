@@ -1,6 +1,7 @@
 package com.gongsi.aa;
 
 public class aa {
-	/*main*/ 
+	/*main*/ /*希望这次都成功*/ /*希望这次都成功*/
+
     /*希望这次都成功*/
 }
